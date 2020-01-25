@@ -22,6 +22,8 @@ const PersonList = () => {
         <p>lorem lorem</p>
       </Person>
       <Person img="44" name="devid" job="artist"></Person>
+      <Person img="45" name="raju" job="Manager"></Person>
+      <Person img="55" name="Shiv" job="Maker"></Person>
     </section>
   );
 };
